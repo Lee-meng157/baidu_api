@@ -14,4 +14,4 @@
   2.打开下载的项目：</br>
   ![image](https://user-images.githubusercontent.com/83943157/119325560-903cbe80-bcb3-11eb-88ba-9790a57467ad.png)
   找到项目位置：</br>
-  ![Uploading image.png…]()
+  ![image](https://user-images.githubusercontent.com/83943157/119326008-0d683380-bcb4-11eb-953d-fa495e2a3c89.png)
