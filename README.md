@@ -11,7 +11,7 @@
   2.其次是scratch文件夹，此文件夹下的.sb3文件为scratch文件，用来测试用户的人脸是否存入到人脸库中。</br>
 # 3.运行说明
   1.打开PyCharm,[配置环境](https://jingyan.baidu.com/article/a3a3f81126031e8da3eb8a63.html)</br>
-  2.打开下载的项目：
+  2.打开下载的项目：</br>
   ![image](https://user-images.githubusercontent.com/83943157/119325560-903cbe80-bcb3-11eb-88ba-9790a57467ad.png)
-  找到项目位置：
+  找到项目位置：</br>
   ![Uploading image.png…]()
