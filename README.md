@@ -32,7 +32,7 @@
   ![image](https://user-images.githubusercontent.com/83943157/119328793-13134880-bcb7-11eb-8248-007c08fad8b9.png)
   ![image](https://user-images.githubusercontent.com/83943157/119328891-2d4d2680-bcb7-11eb-9cb3-2e80ae7e6a39.png)
   5.转到Codelab Adapter平台，按下键盘的空格键，就开始运行了：</br>
-  ![test](https://user-images.githubusercontent.com/83943157/119329352-b4020380-bcb7-11eb-88dc-6d89ad6ea951.png)
+  ![image](https://user-images.githubusercontent.com/83943157/119331047-7c945680-bcb9-11eb-9dd4-fe89b790509c.png)
 # 4.总结
   1.本项目主要为创建人脸库，若是人脸已在人脸库中，那么就显示识别成功，对于人脸的识别，数据大于80，那么就表示是同一个人。若是人脸没在人脸库中，那么就将此人脸创建到人脸库中。</br>
   2.对于scratch文件，使用空格键开始，将摄像头数据传到python中，然后开始检测，若摄像头前不是人脸，那么就提示用户正对摄像头进行检测。</br>3.读者若是想进一步改善，请自行修改文件；欢迎大家来多多指正，期待你的问候！
