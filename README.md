@@ -10,6 +10,6 @@
   1.下载好项目后，可以看到有两个文件夹。先让我们看到face_recognition文件夹，里面有四个py文件，分别为：“Face_Initi”——人脸库初始化、“face_manager”——人脸识别基本函数、```“face_user”——用户人脸函数（是我们运行的主要py文件）```、“my_first_adapter_node”——与scratch连接的py文件。</br>
   2.其次是scratch文件夹，此文件夹下的.sb3文件为scratch文件，用来测试用户的人脸是否存入到人脸库中。</br>
 # 3.运行说明
-  1.打开PyCharm,[配置环境](https://jingyan.baidu.com/article/a3a3f81126031e8da3eb8a63.html)</bar>
+  1.打开PyCharm,[配置环境](https://jingyan.baidu.com/article/a3a3f81126031e8da3eb8a63.html)</br>
   2.打开下载的项目：
   ![image](https://user-images.githubusercontent.com/83943157/119325560-903cbe80-bcb3-11eb-88ba-9790a57467ad.png)
